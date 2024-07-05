@@ -11,6 +11,6 @@ int main(){
 		printf("The Number is Triple digit:= %d",num);
 	}
 	else{
-		printf("The Given Number is Nor Double and Not Triple");
+		printf("*********************************The Given Number is Nor Double and Not Triple*********************************");
 	}
 }
